@@ -1,0 +1,1 @@
+ar-js-location-test
